@@ -1,0 +1,16 @@
+ul { padding: 0 0 0 1em; }
+li.selected>a { font-weight: bold; }
+
+#wrapper { background-color: silver; }
+
+#header { color: #EEE; background-color: #1A446C; }
+#header h1 { margin: 0; padding: 1em; }
+
+#nav { float: left; width: 20%; line-height:150%;  }
+#nav a { text-decoration: none; }
+#nav ul ul { list-style-type:square; }
+
+#main { float: right; width: 80%; min-height: 550px;
+    background-color: #EEE4B9; }
+* html #main { height: 550px; }
+#footer { clear: both; background-color: gray; }

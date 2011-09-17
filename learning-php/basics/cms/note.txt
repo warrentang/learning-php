@@ -1,0 +1,21 @@
+Essential 10 MySQL Commands:
+  1. mysql_connect
+  2. mysql_select_db
+  3. mysql_query
+  4. mysql_error
+  5. mysql_close
+  6. mysql_fetch_array
+  7. mysql_num_rows
+  8. mysql_affected_rows
+  9. mysql_real_escape_string
+ 10. mysql_insert_id
+ 
+PHP Pitfalls:
+  1. display_errors/error_reporting
+  2. typos, semicolons, closing braces
+  3. = vs. ==
+  4. headers already sent
+  5. encoding values/input/output
+  6. form validation
+  7. SQL escape character handling
+  8. badly crafted SQL
